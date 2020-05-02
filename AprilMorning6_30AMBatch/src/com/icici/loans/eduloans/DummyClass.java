@@ -7,6 +7,7 @@ public class DummyClass {
 		
    System.out.println("Hello");
    System.out.println("Added second line");
+   System.out.println("Added third line");
 	}
 
 }
