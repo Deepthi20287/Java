@@ -1,7 +1,8 @@
 package com.icici.loans.eduloans;
 
 public class DummyClass {
-	int a =10, b=20, c;
+
+	int x=100, y=200, z;
 
 	public static void main(String[] args)
 	{
